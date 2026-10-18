@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "ca.gbc.comp3074.assignment1.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "ca.gbc.comp3074.assignment1.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "ca.gbc.comp3074.assignment1.app-debug-31:/drawable_ic_person.xml.flat",
+        "source": "ca.gbc.comp3074.assignment1.app-main-33:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "ca.gbc.comp3074.assignment1.app-debug-31:/drawable_ic_info.xml.flat",
+        "source": "ca.gbc.comp3074.assignment1.app-main-33:/drawable/ic_info.xml"
+    },
+    {
+        "merged": "ca.gbc.comp3074.assignment1.app-debug-31:/menu_menu_main.xml.flat",
+        "source": "ca.gbc.comp3074.assignment1.app-main-33:/menu/menu_main.xml"
+    },
+    {
+        "merged": "ca.gbc.comp3074.assignment1.app-debug-31:/drawable_output_background.xml.flat",
+        "source": "ca.gbc.comp3074.assignment1.app-main-33:/drawable/output_background.xml"
+    },
+    {
+        "merged": "ca.gbc.comp3074.assignment1.app-debug-31:/mipmap_ic_launcher_round.xml.flat",
+        "source": "ca.gbc.comp3074.assignment1.app-main-33:/mipmap/ic_launcher_round.xml"
+    },
+    {
+        "merged": "ca.gbc.comp3074.assignment1.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "ca.gbc.comp3074.assignment1.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "ca.gbc.comp3074.assignment1.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "ca.gbc.comp3074.assignment1.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "ca.gbc.comp3074.assignment1.app-debug-31:/layout_activity_about.xml.flat",
+        "source": "ca.gbc.comp3074.assignment1.app-main-33:/layout/activity_about.xml"
+    },
+    {
+        "merged": "ca.gbc.comp3074.assignment1.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "ca.gbc.comp3074.assignment1.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "ca.gbc.comp3074.assignment1.app-debug-31:/mipmap_ic_launcher.xml.flat",
+        "source": "ca.gbc.comp3074.assignment1.app-main-33:/mipmap/ic_launcher.xml"
+    },
+    {
+        "merged": "ca.gbc.comp3074.assignment1.app-debug-31:/drawable_card_background.xml.flat",
+        "source": "ca.gbc.comp3074.assignment1.app-main-33:/drawable/card_background.xml"
+    },
+    {
+        "merged": "ca.gbc.comp3074.assignment1.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "ca.gbc.comp3074.assignment1.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

@@ -1,0 +1,117 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 7 0 R >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 8 0 R >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+7 0 obj
+<< /Length 2602 >>
+stream
+BT /F2 18 Tf 50 740 Td (AI Usage Declaration) Tj ET
+BT /F2 12 Tf 50 715 Td (AI Usage Declaration Submission Instructions) Tj ET
+BT /F1 9 Tf 50 695 Td (When completing your assignment, you must download and fill out the 'AI Usage Declaration' form for each) Tj ET
+BT /F1 9 Tf 50 683 Td (assignment where AI use is permitted. Once completed, convert the form to a PDF and save it as aud.pdf.) Tj ET
+BT /F1 9 Tf 50 671 Td (Submit this PDF along with your assignment. This declaration is required to confirm your appropriate use) Tj ET
+BT /F1 9 Tf 50 659 Td (of AI tools, and failure to submit it will result in a zero for the assignment. Ensure all information) Tj ET
+BT /F1 9 Tf 50 647 Td (provided is accurate and aligns with the academic integrity guidelines.) Tj ET
+BT /F2 12 Tf 50 620 Td (Student Information) Tj ET
+BT /F2 10 Tf 65 602 Td (Name:) Tj ET
+BT /F1 10 Tf 110 602 Td (Ariana Cruz) Tj ET
+BT /F2 10 Tf 65 586 Td (Student ID:) Tj ET
+BT /F1 10 Tf 135 586 Td (101346000) Tj ET
+BT /F2 10 Tf 65 570 Td (Course Code:) Tj ET
+BT /F1 10 Tf 145 570 Td (COMP3074) Tj ET
+BT /F2 12 Tf 50 545 Td (Assessment Information) Tj ET
+BT /F2 10 Tf 65 528 Td (Assessment Name:) Tj ET
+BT /F1 10 Tf 175 528 Td (Assignment 1) Tj ET
+BT /F2 10 Tf 65 512 Td (Submission Date:) Tj ET
+BT /F1 10 Tf 165 512 Td (October 18, 2026) Tj ET
+BT /F2 11 Tf 50 485 Td (\(Add * for those applicable\)) Tj ET
+BT /F2 12 Tf 50 470 Td (AI Tool\(s\) Used:) Tj ET
+BT /F1 10 Tf 65 452 Td ([ ] ChatGPT) Tj ET
+BT /F1 10 Tf 65 436 Td ([ ] Copilot) Tj ET
+BT /F1 10 Tf 65 420 Td ([ ] DALL-E) Tj ET
+BT /F2 10 Tf 65 404 Td (* None: [No AI tools were used for this assignment]) Tj ET
+BT /F2 12 Tf 50 375 Td (Purpose of AI Usage:) Tj ET
+BT /F1 9.5 Tf 50 360 Td (\(Select the primary purposes for which AI was used in this assessment\)) Tj ET
+BT /F1 10 Tf 65 342 Td ([ ] Idea Generation) Tj ET
+BT /F1 10 Tf 65 326 Td ([ ] Writing Assistance) Tj ET
+BT /F1 10 Tf 65 310 Td ([ ] Image Creation) Tj ET
+BT /F1 10 Tf 65 294 Td ([ ] Coding/Programming) Tj ET
+BT /F1 10 Tf 65 278 Td ([ ] Language Refinement) Tj ET
+BT /F2 10 Tf 65 262 Td (* None: [Not applicable - No AI used]) Tj ET
+BT /F2 12 Tf 50 235 Td (Details of AI-Generated Content:) Tj ET
+BT /F1 9.5 Tf 50 220 Td (\(Provide brief examples or descriptions\)) Tj ET
+BT /F2 10 Tf 65 200 Td (Example 1:) Tj ET
+BT /F1 9.5 Tf 65 185 Td (None. No AI-generated content was used in this assessment. All code, XML layouts,) Tj ET
+BT /F1 9.5 Tf 65 172 Td (navigation logic, calculations, and documentation were implemented completely) Tj ET
+BT /F1 9.5 Tf 65 159 Td (independently as original student work.) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Length 2746 >>
+stream
+BT /F2 12 Tf 50 740 Td (Review and Refinement:) Tj ET
+BT /F1 9.5 Tf 50 725 Td (\(Select the actions taken to refine AI output\)) Tj ET
+BT /F1 10 Tf 65 705 Td ([ ] Edited AI-generated content for accuracy) Tj ET
+BT /F1 10 Tf 65 689 Td ([ ] Cross-checked AI output with reliable sources) Tj ET
+BT /F1 10 Tf 65 673 Td ([ ] Made significant changes to AI-generated text or images) Tj ET
+BT /F2 10 Tf 65 657 Td (* None: [N/A - No AI output was generated or used]) Tj ET
+BT /F2 12 Tf 50 630 Td (Quality Assurance and Ethical Considerations:) Tj ET
+BT /F1 9.5 Tf 50 615 Td (\(Briefly describe how you ensured the quality and ethical use of AI\)) Tj ET
+BT /F2 10 Tf 50 595 Td (Quality Check:) Tj ET
+BT /F1 9.5 Tf 130 595 Td (Verified payroll formulas \(<= 40 hrs regular, > 40 hrs overtime at 1.5x, and tax\)) Tj ET
+BT /F1 9.5 Tf 50 582 Td (through manual testing and automated unit tests. Verified all requirements directly) Tj ET
+BT /F1 9.5 Tf 50 569 Td (against the assignment rubric and official Android developer documentation.) Tj ET
+BT /F2 10 Tf 50 545 Td (Ethical Use:) Tj ET
+BT /F1 9.5 Tf 120 545 Td (No AI tools were used. All work is original, authored independently, and adheres) Tj ET
+BT /F1 9.5 Tf 50 532 Td (strictly to George Brown College academic integrity guidelines. Full understanding of every) Tj ET
+BT /F1 9.5 Tf 50 519 Td (line of code is maintained for the oral code interview.) Tj ET
+BT /F2 12 Tf 50 485 Td (Reflection on AI Usage:) Tj ET
+BT /F1 9.5 Tf 50 470 Td (\(Briefly reflect on your experience using AI\)) Tj ET
+BT /F2 10 Tf 50 450 Td (Reflection:) Tj ET
+BT /F1 9.5 Tf 115 450 Td (No AI tools were utilized for this assessment. Completing the project independently) Tj ET
+BT /F1 9.5 Tf 50 437 Td (provided valuable hands-on experience in Android Activity lifecycles and navigation.) Tj ET
+BT /F2 12 Tf 50 400 Td (AI Usage Declaration) Tj ET
+BT /F1 9.5 Tf 50 380 Td (I, Ariana Cruz [101346000], declare that the information provided in this AI Usage) Tj ET
+BT /F1 9.5 Tf 50 367 Td (Declaration is accurate and truthful. I have adhered to the academic integrity guidelines and) Tj ET
+BT /F1 9.5 Tf 50 354 Td (confirm that NO AI-generated content was used in this assessment.) Tj ET
+BT /F2 12 Tf 50 325 Td (Original Work Declaration) Tj ET
+BT /F1 9.5 Tf 65 305 Td (* I declare that the work submitted is my own and that no AI was used in its completion.) Tj ET
+BT /F1 9.5 Tf 65 288 Td (* I understand that I am responsible for the content and quality of the work submitted,) Tj ET
+BT /F1 9.5 Tf 75 275 Td (and that all code is original.) Tj ET
+BT /F2 10 Tf 50 215 Td (Student Signature:) Tj ET
+BT /F1 10 Tf 160 215 Td (Ariana Cruz) Tj ET
+BT /F2 10 Tf 350 215 Td (Date:) Tj ET
+BT /F1 10 Tf 390 215 Td (October 18, 2026) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000000393 00000 n 
+0000000463 00000 n 
+0000000538 00000 n 
+0000003192 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+5990
+%%EOF

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="@color/background_light"
+    tools:context=".AboutActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:padding="24dp">
+
+        <!-- Avatar Icon -->
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/ic_person"
+            android:contentDescription="Student Avatar"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:id="@+id/tvStudentName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/student_name_value"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="@color/text_primary"
+            android:layout_marginBottom="4dp" />
+
+        <TextView
+            android:id="@+id/tvStudentId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/student_id_value"
+            android:textSize="16sp"
+            android:textColor="@color/secondary"
+            android:textStyle="bold"
+            android:layout_marginBottom="24dp" />
+
+        <!-- Info Details Card -->
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            app:cardCornerRadius="14dp"
+            app:cardElevation="2dp"
+            app:strokeWidth="1dp"
+            app:strokeColor="@color/border_light"
+            app:cardBackgroundColor="@color/surface_white">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="20dp">
+
+                <!-- Course Info -->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/course_label"
+                    android:textSize="12sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_muted"
+                    android:textAllCaps="true" />
+
+                <TextView
+                    android:id="@+id/tvCourse"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/course_value"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_primary"
+                    android:layout_marginBottom="16dp" />
+
+                <!-- Assignment Info -->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/assignment_label"
+                    android:textSize="12sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_muted"
+                    android:textAllCaps="true" />
+
+                <TextView
+                    android:id="@+id/tvAssignment"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/assignment_value"
+                    android:textSize="15sp"
+                    android:textColor="@color/text_primary"
+                    android:layout_marginBottom="16dp" />
+
+                <!-- Institution Info -->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/college_label"
+                    android:textSize="12sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_muted"
+                    android:textAllCaps="true" />
+
+                <TextView
+                    android:id="@+id/tvCollege"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/college_value"
+                    android:textSize="15sp"
+                    android:textColor="@color/text_primary" />
+
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+
+        <!-- Back Button on Screen -->
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnBackToMain"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Back to Calculator"
+            android:textSize="15sp"
+            android:textColor="@color/surface_white"
+            android:backgroundTint="@color/primary"
+            app:cornerRadius="10dp" />
+
+    </LinearLayout>
+</ScrollView>
+

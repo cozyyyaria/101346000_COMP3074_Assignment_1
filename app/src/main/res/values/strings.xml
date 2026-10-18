@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Payroll Calculator</string>
+    <string name="title_about">About</string>
+
+    <!-- Input Labels & Hints -->
+    <string name="input_section_title">Enter Employee Hours &amp; Rates</string>
+    <string name="label_hours_worked">Hours Worked</string>
+    <string name="hint_hours_worked">e.g. 45.0</string>
+    <string name="label_hourly_rate">Hourly Rate ($)</string>
+    <string name="hint_hourly_rate">e.g. 28.50</string>
+    <string name="label_tax_rate">Tax Rate (decimal or %)</string>
+    <string name="hint_tax_rate">e.g. 0.13 (or 13%)</string>
+
+    <!-- Action Buttons -->
+    <string name="btn_calculate">Calculate Pay</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_about">About Me</string>
+
+    <!-- Calculation Results -->
+    <string name="results_section_title">Payroll Breakdown</string>
+    <string name="label_regular_pay">Regular Pay:</string>
+    <string name="label_overtime_pay">Overtime Pay:</string>
+    <string name="label_total_pay">Total Pay:</string>
+    <string name="label_tax">Tax:</string>
+    <string name="default_amount">$0.00</string>
+
+    <!-- Validation Error Messages -->
+    <string name="error_empty_hours">Please enter the number of hours worked</string>
+    <string name="error_empty_rate">Please enter the hourly rate</string>
+    <string name="error_empty_tax">Please enter the tax rate</string>
+    <string name="error_negative_values">Values cannot be negative</string>
+    <string name="error_invalid_number">Please enter valid positive numbers</string>
+    <string name="error_invalid_input">Please fill in all required fields</string>
+
+    <!-- About Activity Strings -->
+    <string name="about_header">Student Information</string>
+    <string name="student_name_label">Full Name</string>
+    <string name="student_name_value">Ariana Cruz</string>
+    <string name="student_id_label">Student ID</string>
+    <string name="student_id_value">101346000</string>
+    <string name="course_label">Course</string>
+    <string name="course_value">COMP3074 - Mobile Application Development I</string>
+    <string name="assignment_label">Assessment</string>
+    <string name="assignment_value">Assignment 1 (Fall 2026)</string>
+    <string name="college_label">Institution</string>
+    <string name="college_value">George Brown College</string>
+
+    <!-- Menu -->
+    <string name="action_about">About</string>
+</resources>
+
